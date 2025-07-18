@@ -9,3 +9,8 @@ The dataset is highly imbalanced, as the number of legitimate (non-fraudulent) t
 Next, we apply logistic regression to this balanced dataset. The data is split into 80% training and 20% testing, with a random state set to 2 to ensure reproducibility.
 
 The model achieves an accuracy of 94.79% on the training data and 93.40% on the testing data.
+
+👨‍💻 Author 
+Chandrajit Banerjee 
+Email: chandrajitbanerjee.bcrec@gmail.com
+Phone: 6289317043 / 9163306289
