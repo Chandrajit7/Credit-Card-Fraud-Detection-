@@ -10,7 +10,10 @@ Next, we apply logistic regression to this balanced dataset. The data is split i
 
 The model achieves an accuracy of 94.79% on the training data and 93.40% on the testing data.
 
-👨‍💻 Author 
+👨‍💻 Author
+ 
 Chandrajit Banerjee 
+
 Email: chandrajitbanerjee.bcrec@gmail.com
+
 Phone: 6289317043 / 9163306289
