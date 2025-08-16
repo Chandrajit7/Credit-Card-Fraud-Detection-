@@ -72,4 +72,4 @@ print('Accuracy on Training data : ', training_data_accuracy*100)
 
 x_test_prediction=model.predict(x_test)
 training_data_accuracy=accuracy_score(x_test_prediction,y_test)
-print('Accuracy on Testing data : ', training_data_accuracy*100)
+print('Accuracy on Testing data OF THE DATASET : ', training_data_accuracy*100)
